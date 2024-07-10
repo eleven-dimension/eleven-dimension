@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 ![eleven-dimension's GitHub stats](https://github-readme-stats.vercel.app/api?username=eleven-dimension)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleven-dimension)
+![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleven-dimension)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
