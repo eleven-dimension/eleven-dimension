@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleven-dimension)
 
-![visitor](https://vbr.wocr.tk/badge?page_id=eleven-dimension&color=55acb7&style=for-the-badge&logo=Github)
+![visitor](https://vbr.nathanchung.dev/badge?page_id=eleven-dimension&color=55acb7&style=for-the-badge&logo=Github)
