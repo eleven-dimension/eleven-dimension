@@ -1,10 +1,25 @@
-## Hi there 👋
+## Hi there, I'm Tom 👋 <img src="https://komarev.com/ghpvc/?username=eleven-dimension&label=Profile Views&color=orange&style=flat" />&emsp;
 
-![eleven-dimension's GitHub stats](https://github-readme-stats.vercel.app/api?username=eleven-dimension)
+### About Me
 
-![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleven-dimension&exclude_repo=eleven-dimension.github.io)
 
-![visitor](https://vbr.nathanchung.dev/badge?page_id=eleven-dimension&color=55acb7&style=for-the-badge&logo=Github)
+### Stats
+<div>
+<img height="137px" src="https://stats.justsong.cn/api/leetcode?username=sophon&cn=true" />
+
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eleven-dimension&show_icons=true&include_all_commits=true" />
+
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eleven-dimension&exclude_repo=eleven-dimension.github.io&layout=compact&langs_count=6" />
+
+<div>
+
+### Tools
+
+#### Regularly Used
+[![Regularly Used](https://skillicons.dev/icons?i=anaconda,cpp,cmake,css,git,github,gitlab,html,idea,java,js,latex,linux,md,nodejs,npm,powershell,py,pytorch,sklearn,tensorflow,ubuntu,vscode&perline=13)](#)
+
+#### Occasionally Experimented
+[![Occasionally Experimented](https://skillicons.dev/icons?i=androidstudio,blender,c,dart,debian,docker,electron,elixir,firebase,gradle,jquery,lua,matlab,mysql,pycharm,react,regex,rust,selenium,vim,visualstudio,vue,vuetify,webstorm,wordpress&perline=13)](#)
 
 ### Follow Me
 
@@ -12,4 +27,5 @@
 - [Bilibili](https://space.bilibili.com/3546573059394401)
 - [Leetcode](https://leetcode.cn/u/sophon/)
 - [Osu](https://osu.ppy.sh/users/23603871)
+- [NetEase Cloud Music](https://music.163.com/#/user/home?id=3931809475)
 - [CSDN](https://blog.csdn.net/qq_43033347)
