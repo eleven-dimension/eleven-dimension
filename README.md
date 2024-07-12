@@ -3,22 +3,35 @@
 ## About Me
 
 
-
 ## Stats
-
-<div style="display: flex; justify-content: center;">
-    <img src="https://dummyimage.com/20x137/ffffff/ffffff" alt="spacer" height="137px" width="80px" />
-    <img src="https://stats.justsong.cn/api/leetcode?username=sophon&cn=true&theme=dark" alt="LeetCode Stats" height="137px" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eleven-dimension&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark" alt="GitHub Stats" height="137px" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eleven-dimension&exclude_repo=eleven-dimension.github.io&layout=compact&langs_count=10&theme=dark" alt="Top Languages" height="137px" />
-</div>
+<!-- <div style="text-align: center;">
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <img height="137px" src="https://stats.justsong.cn/api/leetcode?username=sophon&cn=true&theme=dark" />
+        <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eleven-dimension&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark" />
+        <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eleven-dimension&exclude_repo=eleven-dimension.github.io&layout=compact&langs_count=10&theme=dark"/>
+    </div>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=eleven-dimension&theme=xcode&bg_color=FF000000&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=eleven-dimension&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=eleven-dimension&theme=xcode&bg_color=FF000000&hide_border=true" />
 </picture>
+</div> -->
 
+<div style="text-align: center;">
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="https://dummyimage.com/20x137/ffffff/ffffff" alt="spacer" height="137px" width="80px" />
+        <img height="137px" src="https://stats.justsong.cn/api/leetcode?username=sophon&cn=true&theme=dark" />
+        <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eleven-dimension&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark" />
+        <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eleven-dimension&exclude_repo=eleven-dimension.github.io&layout=compact&langs_count=10&theme=dark"/>
+    </div>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=eleven-dimension&theme=xcode&bg_color=FF000000&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=eleven-dimension&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eleven-dimension&theme=xcode&bg_color=FF000000&hide_border=true" />
+</picture>
+</div>
 
 ## Tools
 
