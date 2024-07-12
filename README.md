@@ -8,8 +8,8 @@
   <img src="https://stats.justsong.cn/api/leetcode?username=sophon&cn=true&theme=dark" alt="Leetcode Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eleven-dimension&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark" alt="GitHub Stats" height="137px"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eleven-dimension&exclude_repo=eleven-dimension.github.io&layout=compact&langs_count=10&theme=dark" alt="Top Languages" height="137px"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eleven-dimension&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark" alt="GitHub Stats" height="150px"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eleven-dimension&exclude_repo=eleven-dimension.github.io&layout=compact&langs_count=10&theme=dark" alt="Top Languages" height="150px"/>
 </p>
 
 <picture>
