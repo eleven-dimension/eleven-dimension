@@ -16,7 +16,7 @@ I self-study Bazi and Qimen Dunjia, and I have dabbled in tarot, astrology, Liu 
 
 #### Rhythm Games
 
-- Arcaea: PTT 11.4 [b30](https://github.com/eleven-dimension/eleven-dimension/blob/main/arcaea-b30-240724.jpg) (Ignore the records from over 900 days ago. Those were left by my friend. :satisfied:)
+- Arcaea: PTT 11.4 [b30](https://github.com/eleven-dimension/eleven-dimension/blob/main/arcaea-b30-240728.jpg) (Ignore the records from over 900 days ago. Those were left by my friend. :satisfied:)
 - Osu!mania: 4k, 4 Dan
 - Currently playing: Cytus 1
 - Occasionally play: Muse Dash, Osu! Standard, Phigros
