@@ -8,11 +8,15 @@ I enjoy helping others and volunteered in the university's Q&A room during my un
 
 I am particularly interested in reinforcement learning and data structures, with some interest in mathematics. Recently, I have realized that I do not enjoy coding in a corporate environment and aspire to pursue research in these areas in the future.
 
+---
+
+DP on trees is truly stupendous. Even if I were hired by a high-paying company and envied by others, if I could only write large simulations all day without experiencing anything magical, then I'd rather kill myself.
+
 ### Interests
 
-#### Occult 
+#### Occult
 
-I self-study Bazi and Qimen Dunjia, and I have dabbled in tarot, astrology, Liu Yao, Liu Ren, and extraterrestrial topics. If you are interested in personal fate, feel free to contact me for a free consultation. 
+I self-study Bazi and Qimen Dunjia, and I have dabbled in tarot, astrology, Liu Yao, Liu Ren, and extraterrestrial topics. If you are interested in personal fate, feel free to contact me for a free consultation.
 
 #### Rhythm Games
 
