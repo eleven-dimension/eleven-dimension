@@ -1,10 +1,14 @@
 # Hi there, I'm Tom 👋 ![](https://komarev.com/ghpvc/?username=eleven-dimension&color=blue&style=flat-square)
 
-# To Be Updated
-
 ## About Me
 
-I am a postgraduate computer science student at the Australian National University (ANU), specializing in machine learning. I completed my undergraduate studies in computer science at Southeast University in China.
+I am an upcoming MRes student at UoW. I completed my undergraduate degree in CS at SEU in China. After spending a year pursuing a MSc in CS at ANU, I decided to transfer to UoW to pursue a MRes. My research interests focus on Safe RL and Risk-Sensitive RL.
+
+### Why Bother to Transfer?
+
+To be continued...
+
+---
 
 I enjoy helping others and volunteered in the university's Q&A room during my undergraduate years. Due to my near-perfect score (99/100) in Probability Theory, I mainly assisted my peers with this subject and occasionally helped colleagues responsible for Mathematical Analysis. Perhaps I am suited to be a teacher.
 
@@ -64,7 +68,7 @@ I self-study Bazi and Qimen Dunjia, and I have dabbled in tarot, astrology, Liu 
 - [Luogu](https://www.luogu.com.cn/user/159730)
 - [Bilibili (Math & Algorithm)](https://space.bilibili.com/3546573059394401)
 - [Bilibili (Rhythm Game & Occult)](https://space.bilibili.com/550719072)
-- [Leetcode](https://leetcode.cn/u/sophon/)
+- [LeetCode-CN](https://leetcode.cn/u/sophon/)
 - [Osu](https://osu.ppy.sh/users/23603871)
 - [NetEase Cloud Music](https://music.163.com/#/user/home?id=3931809475)
 - [CSDN](https://blog.csdn.net/qq_43033347)
