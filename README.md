@@ -2,17 +2,7 @@
 
 ## About Me
 
-I am an upcoming MRes student at UoW. I completed my undergraduate degree in CS at SEU in China. After spending a year pursuing a MSc in CS at ANU, I decided to transfer to UoW to pursue a MRes. My research interests focus on Safe RL and Risk-Sensitive RL.
-
-### Why Bother to Transfer?
-
-- I prefer putting the competitive programming skills and RL knowledge I learned outside of university to good use, rather than writing large simulations in a big company. Even though it's easy and well-paid, it's not interesting to me.
-- I planned to transfer early within ANU to VCOMP with ample research hours, but the grades came out after the application deadline for this semester, and I might not find a supervisor with aligned interests.
-- I believe RL has the most potential within ML because it doesn't rely on human knowledge and can surpass collective human wisdom. This is where my passion lies. I love knowledge and the joy of understanding the unknown, and I don't care much about university rankings.
-
-### Any Noteworthy Academic Experience?
-
-I enjoy helping others and volunteered in the university's Q&A room during my undergraduate years. Due to my near-perfect score (99/100) in Probability Theory, I mainly assisted my peers with this subject and occasionally helped colleagues responsible for Mathematical Analysis. Perhaps I am suited to be a teacher.
+I am an upcoming MRes student at UoW. I completed my undergraduate degree in CS at SEU in China. After spending a year pursuing a MSc in CS at ANU, I decided to transfer to UoW to pursue a MRes. My research interests focus on RL.
 
 ### Interests
 
