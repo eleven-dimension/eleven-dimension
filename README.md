@@ -24,6 +24,12 @@ I self-study Bazi and Qimen Dunjia, and I have dabbled in tarot, astrology, Liu 
 
 - **Blog**: I sporadically post problem solutions, notes, and personal entries.
 
+#### Vegetarianism
+
+Recently, my grandmother was diagnosed with stomach cancer and underwent surgery that removed more than half of her stomach. This is the first time cancer has struck so close to me, and it has made me reflect deeply. Long ago, I came across a notion suggesting that many cancers are caused by vengeful souls, including those of animals. For example, if someone harms a cow severely in the belly, its soul might one day return for revenge, especially when that person's immunity is low, leading to illness. Interestingly, I recently learned that red meat has been scientifically linked to a higher risk of cancer. These two ideas overlap, making me wonder if there could be truth in the first, seemingly unbelievable, notion. 
+
+To explore this, I've been reducing my meat intake, relying instead on eggs, soy, and oats for protein, and corn and rice for carbohydrates over the past few days. I plan to continue this experiment longer to observe any changes in my health.
+
 ## Stats
 <p align="center">
   <img src="https://stats.justsong.cn/api/leetcode?username=sophon&cn=true&theme=dark" alt="Leetcode Stats"/>
